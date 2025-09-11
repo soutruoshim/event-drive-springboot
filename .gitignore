@@ -1,0 +1,17 @@
+# Build output
+target/
+
+# IDE settings
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Spring Boot specific (if using embedded H2, etc.)
+*.db
+*.h2.db
